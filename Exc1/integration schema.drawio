@@ -1,0 +1,251 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.2.13">
+  <diagram name="Page-1" id="JrMiKY0tgwlUfz3xhO9c">
+    <mxGraphModel dx="2395" dy="1043" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="mkxbTeFQtZYdXLmxVXDZ-1" value="Клиент" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/user-pictures/100/male3-128.png" vertex="1" parent="1">
+          <mxGeometry x="-250" y="110" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mkxbTeFQtZYdXLmxVXDZ-2" value="Сотрудник &lt;br&gt;фронт-офиса" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/user-pictures/101/malecostume-128.png" vertex="1" parent="1">
+          <mxGeometry x="-250" y="240" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mkxbTeFQtZYdXLmxVXDZ-3" value="Сотрудник &lt;br&gt;кол-центра" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/user-pictures/100/female1-128.png" vertex="1" parent="1">
+          <mxGeometry x="-250" y="370" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mkxbTeFQtZYdXLmxVXDZ-4" value="Сотрудник &lt;br&gt;бэк-офиса" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/user-pictures/101/malecostume-128.png;imageBackground=#CCCCCC;" vertex="1" parent="1">
+          <mxGeometry x="-250" y="501" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mkxbTeFQtZYdXLmxVXDZ-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mkxbTeFQtZYdXLmxVXDZ-11" target="mkxbTeFQtZYdXLmxVXDZ-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mkxbTeFQtZYdXLmxVXDZ-6" value="подача заявки на депозит" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mkxbTeFQtZYdXLmxVXDZ-5">
+          <mxGeometry x="-0.0301" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mkxbTeFQtZYdXLmxVXDZ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="mkxbTeFQtZYdXLmxVXDZ-11" target="mkxbTeFQtZYdXLmxVXDZ-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mkxbTeFQtZYdXLmxVXDZ-8" value="предварительная заявка" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mkxbTeFQtZYdXLmxVXDZ-7">
+          <mxGeometry x="-0.0248" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mkxbTeFQtZYdXLmxVXDZ-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.026;entryY=0.835;entryDx=0;entryDy=0;exitX=0.994;exitY=0.841;exitDx=0;exitDy=0;exitPerimeter=0;entryPerimeter=0;" edge="1" parent="1" source="mkxbTeFQtZYdXLmxVXDZ-11" target="mkxbTeFQtZYdXLmxVXDZ-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mkxbTeFQtZYdXLmxVXDZ-10" value="согласование, подписание документов" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mkxbTeFQtZYdXLmxVXDZ-9">
+          <mxGeometry x="-0.0239" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mkxbTeFQtZYdXLmxVXDZ-11" value="Клиент" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/user-pictures/100/male3-128.png" vertex="1" parent="1">
+          <mxGeometry x="-10" y="170" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mkxbTeFQtZYdXLmxVXDZ-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mkxbTeFQtZYdXLmxVXDZ-22" target="mkxbTeFQtZYdXLmxVXDZ-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mkxbTeFQtZYdXLmxVXDZ-13" value="запрос ставки депозита" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mkxbTeFQtZYdXLmxVXDZ-12">
+          <mxGeometry x="-0.0583" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mkxbTeFQtZYdXLmxVXDZ-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="mkxbTeFQtZYdXLmxVXDZ-22" target="mkxbTeFQtZYdXLmxVXDZ-34">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="337" y="290" />
+              <mxPoint x="750" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mkxbTeFQtZYdXLmxVXDZ-15" value="запрос ставки депозита" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mkxbTeFQtZYdXLmxVXDZ-14">
+          <mxGeometry x="-0.0244" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mkxbTeFQtZYdXLmxVXDZ-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mkxbTeFQtZYdXLmxVXDZ-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="430" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="337" y="340" />
+              <mxPoint x="530" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mkxbTeFQtZYdXLmxVXDZ-17" value="запрос ставки депозита" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mkxbTeFQtZYdXLmxVXDZ-16">
+          <mxGeometry x="-0.011" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mkxbTeFQtZYdXLmxVXDZ-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.995;entryY=0.648;entryDx=0;entryDy=0;exitX=0.013;exitY=0.648;exitDx=0;exitDy=0;exitPerimeter=0;entryPerimeter=0;" edge="1" parent="1" source="mkxbTeFQtZYdXLmxVXDZ-22" target="mkxbTeFQtZYdXLmxVXDZ-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mkxbTeFQtZYdXLmxVXDZ-19" value="передача ставки, документов" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mkxbTeFQtZYdXLmxVXDZ-18">
+          <mxGeometry x="-0.0983" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mkxbTeFQtZYdXLmxVXDZ-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="mkxbTeFQtZYdXLmxVXDZ-22" target="mkxbTeFQtZYdXLmxVXDZ-34">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="377" y="250" />
+              <mxPoint x="780" y="250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mkxbTeFQtZYdXLmxVXDZ-21" value="создание депозита, внесение документов" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mkxbTeFQtZYdXLmxVXDZ-20">
+          <mxGeometry x="-0.2781" y="2" relative="1" as="geometry">
+            <mxPoint x="-27" y="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mkxbTeFQtZYdXLmxVXDZ-22" value="Сотрудник &lt;br&gt;фронт-офиса" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/user-pictures/101/malecostume-128.png" vertex="1" parent="1">
+          <mxGeometry x="297" y="170" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mkxbTeFQtZYdXLmxVXDZ-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="mkxbTeFQtZYdXLmxVXDZ-52" target="mkxbTeFQtZYdXLmxVXDZ-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="680" y="70" as="sourcePoint" />
+            <mxPoint x="550" y="496" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mkxbTeFQtZYdXLmxVXDZ-24" value="перерасчет, обновление ставок по почте" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mkxbTeFQtZYdXLmxVXDZ-23">
+          <mxGeometry x="-0.0475" y="1" relative="1" as="geometry">
+            <mxPoint x="-88" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mkxbTeFQtZYdXLmxVXDZ-25" value="Excel" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#A9C4EB;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="620" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mkxbTeFQtZYdXLmxVXDZ-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mkxbTeFQtZYdXLmxVXDZ-28" target="mkxbTeFQtZYdXLmxVXDZ-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mkxbTeFQtZYdXLmxVXDZ-27" value="Заводит обращение" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mkxbTeFQtZYdXLmxVXDZ-26">
+          <mxGeometry x="-0.0252" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mkxbTeFQtZYdXLmxVXDZ-28" value="Сотрудник &lt;br&gt;кол-центра" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/user-pictures/100/female1-128.png" vertex="1" parent="1">
+          <mxGeometry x="-10" y="430" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mkxbTeFQtZYdXLmxVXDZ-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mkxbTeFQtZYdXLmxVXDZ-31" target="mkxbTeFQtZYdXLmxVXDZ-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mkxbTeFQtZYdXLmxVXDZ-30" value="обработка заявок" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mkxbTeFQtZYdXLmxVXDZ-29">
+          <mxGeometry x="0.0551" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mkxbTeFQtZYdXLmxVXDZ-31" value="Система кол-центра" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#A9C4EB;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="250" y="441" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mkxbTeFQtZYdXLmxVXDZ-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mkxbTeFQtZYdXLmxVXDZ-34" target="mkxbTeFQtZYdXLmxVXDZ-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mkxbTeFQtZYdXLmxVXDZ-33" value="запрос на СМС" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mkxbTeFQtZYdXLmxVXDZ-32">
+          <mxGeometry x="-0.0231" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mkxbTeFQtZYdXLmxVXDZ-34" value="АБС" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#A9C4EB;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="690" y="436" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="mkxbTeFQtZYdXLmxVXDZ-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mkxbTeFQtZYdXLmxVXDZ-37" target="mkxbTeFQtZYdXLmxVXDZ-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-90" y="636" />
+              <mxPoint x="-90" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mkxbTeFQtZYdXLmxVXDZ-36" value="СМС оповещение о согласовании ставки" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mkxbTeFQtZYdXLmxVXDZ-35">
+          <mxGeometry x="-0.4245" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mkxbTeFQtZYdXLmxVXDZ-37" value="СМС шлюз" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#A9C4EB;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="690" y="606" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mkxbTeFQtZYdXLmxVXDZ-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mkxbTeFQtZYdXLmxVXDZ-46" target="mkxbTeFQtZYdXLmxVXDZ-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mkxbTeFQtZYdXLmxVXDZ-39" value="указание ставки" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mkxbTeFQtZYdXLmxVXDZ-38">
+          <mxGeometry x="-0.009" y="3" relative="1" as="geometry">
+            <mxPoint x="1" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mkxbTeFQtZYdXLmxVXDZ-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="mkxbTeFQtZYdXLmxVXDZ-46" target="mkxbTeFQtZYdXLmxVXDZ-52">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="530" y="570" />
+              <mxPoint x="1050" y="570" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mkxbTeFQtZYdXLmxVXDZ-41" value="запрос ставки" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mkxbTeFQtZYdXLmxVXDZ-40">
+          <mxGeometry x="0.0132" relative="1" as="geometry">
+            <mxPoint x="86" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mkxbTeFQtZYdXLmxVXDZ-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mkxbTeFQtZYdXLmxVXDZ-46" target="mkxbTeFQtZYdXLmxVXDZ-25">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="530" y="340" />
+              <mxPoint x="680" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mkxbTeFQtZYdXLmxVXDZ-43" value="внесение ставки" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mkxbTeFQtZYdXLmxVXDZ-42">
+          <mxGeometry x="0.0867" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mkxbTeFQtZYdXLmxVXDZ-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="mkxbTeFQtZYdXLmxVXDZ-46" target="mkxbTeFQtZYdXLmxVXDZ-22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="490" y="410" />
+              <mxPoint x="337" y="410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mkxbTeFQtZYdXLmxVXDZ-45" value="отправка ставки" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mkxbTeFQtZYdXLmxVXDZ-44">
+          <mxGeometry x="-0.3709" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mkxbTeFQtZYdXLmxVXDZ-46" value="Сотрудник &lt;br&gt;бэк-офиса" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/user-pictures/101/malecostume-128.png;imageBackground=#CCCCCC;" vertex="1" parent="1">
+          <mxGeometry x="490" y="430" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mkxbTeFQtZYdXLmxVXDZ-47" value="Сотрудник &lt;br&gt;отдела кредитования" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/user-pictures/101/malecostume-128.png;imageBackground=#CCCCCC;" vertex="1" parent="1">
+          <mxGeometry x="-250" y="630" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mkxbTeFQtZYdXLmxVXDZ-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mkxbTeFQtZYdXLmxVXDZ-52" target="mkxbTeFQtZYdXLmxVXDZ-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mkxbTeFQtZYdXLmxVXDZ-49" value="анализ кредитного риска" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mkxbTeFQtZYdXLmxVXDZ-48">
+          <mxGeometry x="0.0404" y="-5" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mkxbTeFQtZYdXLmxVXDZ-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="mkxbTeFQtZYdXLmxVXDZ-52" target="mkxbTeFQtZYdXLmxVXDZ-46">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530.0000000000005" y="420" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1050" y="390" />
+              <mxPoint x="531" y="390" />
+              <mxPoint x="531" y="420" />
+              <mxPoint x="530" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mkxbTeFQtZYdXLmxVXDZ-51" value="отправка ставки письмом" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mkxbTeFQtZYdXLmxVXDZ-50">
+          <mxGeometry x="-0.3062" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mkxbTeFQtZYdXLmxVXDZ-52" value="Сотрудник &lt;br&gt;отдела кредитования" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/user-pictures/101/malecostume-128.png;imageBackground=#CCCCCC;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="430" width="80" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
